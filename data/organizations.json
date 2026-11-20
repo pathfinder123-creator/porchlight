@@ -1,0 +1,167 @@
+[
+  {
+    "id": "ORG-024",
+    "name": "Operation Kindness",
+    "type": "Animal welfare"
+  },
+  {
+    "id": "ORG-008",
+    "name": "Crossroads Community Services",
+    "type": "Human services & food assistance"
+  },
+  {
+    "id": "ORG-006",
+    "name": "City of Richardson",
+    "type": "Government & civic services"
+  },
+  {
+    "id": "ORG-005",
+    "name": "City of Garland",
+    "type": "Government & civic services"
+  },
+  {
+    "id": "ORG-002",
+    "name": "Assistance Center of Collin County",
+    "type": "Human services & food assistance"
+  },
+  {
+    "id": "ORG-023",
+    "name": "North Texas Food Bank",
+    "type": "Human services & food assistance"
+  },
+  {
+    "id": "ORG-012",
+    "name": "Dallas Parks & Recreation",
+    "type": "Government & civic services"
+  },
+  {
+    "id": "ORG-021",
+    "name": "Meals on Wheels Collin County",
+    "type": "Human services & food assistance"
+  },
+  {
+    "id": "ORG-003",
+    "name": "City House",
+    "type": "Human services & food assistance"
+  },
+  {
+    "id": "ORG-001",
+    "name": "All Community Outreach",
+    "type": "Human services & food assistance"
+  },
+  {
+    "id": "ORG-022",
+    "name": "Network of Community Ministries",
+    "type": "Human services & food assistance"
+  },
+  {
+    "id": "ORG-018",
+    "name": "Jewish Family Service of Dallas",
+    "type": "Human services & food assistance"
+  },
+  {
+    "id": "ORG-027",
+    "name": "Texas Trees Foundation",
+    "type": "Environment & conservation"
+  },
+  {
+    "id": "ORG-014",
+    "name": "For the Love of the Lake",
+    "type": "Environment & conservation"
+  },
+  {
+    "id": "ORG-009",
+    "name": "Dallas Arboretum and Botanical Garden",
+    "type": "Museums & cultural institutions"
+  },
+  {
+    "id": "ORG-011",
+    "name": "Dallas Museum of Art",
+    "type": "Museums & cultural institutions"
+  },
+  {
+    "id": "ORG-013",
+    "name": "Dallas Public Library",
+    "type": "Libraries"
+  },
+  {
+    "id": "ORG-010",
+    "name": "Dallas County Parks & Open Space",
+    "type": "Government & civic services"
+  },
+  {
+    "id": "ORG-028",
+    "name": "Trinity River Audubon Center",
+    "type": "Museums & cultural institutions"
+  },
+  {
+    "id": "ORG-025",
+    "name": "Perot Museum of Nature and Science",
+    "type": "Museums & cultural institutions"
+  },
+  {
+    "id": "ORG-017",
+    "name": "Inspire Art Dallas",
+    "type": "Other community organizations"
+  },
+  {
+    "id": "ORG-019",
+    "name": "League of Women Voters of Dallas",
+    "type": "Civic advocacy"
+  },
+  {
+    "id": "ORG-016",
+    "name": "Heard Natural Science Museum & Wildlife Sanctuary",
+    "type": "Museums & cultural institutions"
+  },
+  {
+    "id": "ORG-015",
+    "name": "Habitat for Humanity of Collin County",
+    "type": "Housing & community development"
+  },
+  {
+    "id": "ORG-004",
+    "name": "City of Frisco — Natural Resources",
+    "type": "Government & civic services"
+  },
+  {
+    "id": "ORG-026",
+    "name": "Plano Public Library",
+    "type": "Libraries"
+  },
+  {
+    "id": "ORG-007",
+    "name": "Collin County History Museum",
+    "type": "Museums & cultural institutions"
+  },
+  {
+    "id": "ORG-020",
+    "name": "McKinney Senior Recreation Center",
+    "type": "Government & civic services"
+  },
+  {
+    "id": "ORG-H01",
+    "name": "Medical City Plano Hospital",
+    "type": "Hospitals & healthcare"
+  },
+  {
+    "id": "ORG-H02",
+    "name": "Medical City Frisco Hospital",
+    "type": "Hospitals & healthcare"
+  },
+  {
+    "id": "ORG-H03",
+    "name": "Texas Health Resources",
+    "type": "Hospitals & healthcare"
+  },
+  {
+    "id": "ORG-H04",
+    "name": "Parkland Health",
+    "type": "Hospitals & healthcare"
+  },
+  {
+    "id": "ORG-H05",
+    "name": "Baylor Scott & White Health",
+    "type": "Hospitals & healthcare"
+  }
+]
