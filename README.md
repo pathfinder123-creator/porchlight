@@ -15,3 +15,9 @@ This package is intended for a limited hosted pilot and Accommodations-team acce
 - Volunteer openings, locations, eligibility and schedules may change; users should confirm on the organization's site.
 - The accompanying URL verification register and internal audit notes are **not part of the public site**.
 - Some external URLs still need confirmation in an ordinary browser. This is a pilot release, not an accessibility-certified public launch.
+
+## Getting Started guide update
+- New `getting-started.html` page with five introductory steps, an expandable questions list, and links into discovery and assessment.
+- Home page and About page link to the guide.
+- Updated `css/styles.css` styles the guide and invitation.
+- This package also retains the corrected About & Privacy wording.
