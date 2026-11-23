@@ -21,3 +21,12 @@ This package is intended for a limited hosted pilot and Accommodations-team acce
 - Home page and About page link to the guide.
 - Updated `css/styles.css` styles the guide and invitation.
 - This package also retains the corrected About & Privacy wording.
+
+## PWA support (November 2026)
+- Includes `manifest.webmanifest`, `service-worker.js`, `js/pwa.js`, and app icons under `images/`.
+- Works on GitHub Pages over HTTPS. `file://` local preview does not register a service worker.
+- Network-first caching prefers fresh site files and falls back to previously cached files offline.
+- The cache version is `porchlight-site-v1-20261123`. Increment this string whenever releasing a future change to the pre-cached file list or behavior.
+- A first online visit is required to cache the site; external organization links are not cached.
+- After deployment, test installation on a real device, offline browsing, and updates after reconnecting.
+- Install guidance appears under About & Privacy; the home page links to it.
