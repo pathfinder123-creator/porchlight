@@ -8,7 +8,7 @@ if ('serviceWorker' in navigator && (location.protocol === 'https:' || location.
 }
 // Compare the loaded release with the online directory version; never clear user storage.
 (()=>{
- const current='2026.11.24-expansion1-r3'; let checking=false; const get=k=>{try{return sessionStorage.getItem(k)}catch{return null}}; const put=(k,v)=>{try{sessionStorage.setItem(k,v)}catch{}}; const later="porchlight.update.later", pending="porchlight.update.pending"; let dismissed;
+ const current='2026.11.24-expansion1-r4'; let checking=false; const get=k=>{try{return sessionStorage.getItem(k)}catch{return null}}; const put=(k,v)=>{try{sessionStorage.setItem(k,v)}catch{}}; const later="porchlight.update.later", pending="porchlight.update.pending"; let dismissed;
  async function confirmed(target){for(let i=0;i<30;i++){const worker=navigator.serviceWorker?.controller;if(worker){const version=await new Promise(resolve=>{const c=new MessageChannel();const t=setTimeout(()=>{c.port1.close();resolve(null)},500);c.port1.onmessage=e=>{clearTimeout(t);c.port1.close();resolve(e.data.version)};worker.postMessage({type:"VERSION"},[c.port2]);});if(version===target)return true;}await new Promise(r=>setTimeout(r,500));}return false;}
  async function check(manual=false){
   if(checking)return; checking=true;
@@ -27,6 +27,13 @@ if ('serviceWorker' in navigator && (location.protocol === 'https:' || location.
    button.onclick=async()=>{button.disabled=true;progress.textContent='Preparing update…';try{const reg=await navigator.serviceWorker?.getRegistration();if(!reg)throw Error();await reg.update();if(!await confirmed(info.version))throw Error();put(pending,info.version);location.reload();}catch{progress.textContent='Update could not be confirmed. Please try again later.';button.disabled=false;}};
   }catch{if(manual&&status)status.textContent='Unable to check online. Reconnect and try again.';}finally{checking=false;}
  }
- window.addEventListener('load',async()=>{if(get(pending)===current&&await confirmed(current)){const msg=document.createElement('p');msg.className='notice';msg.setAttribute('role','status');msg.textContent='Porchlight has been updated.';document.querySelector('main').prepend(msg);put(pending,'');}check();document.getElementById('porchlight-check-update')?.addEventListener('click',()=>check(true));});
+ window.addEventListener('load',async()=>{if(get(pending)===current&&await confirmed(current)){const msg=document.createElement('p');msg.className='notice';msg.setAttribute('role','status');msg.textContent='Porchlight has been updated.';document.querySelector('main').prepend(msg);put(pending,'');
+   setTimeout(()=>{
+    if(!msg.isConnected)return;
+    if(window.matchMedia('(prefers-reduced-motion: reduce)').matches){msg.remove();return;}
+    msg.style.transition='opacity 400ms ease';
+    msg.style.opacity='0';
+    setTimeout(()=>msg.remove(),400);
+   },5000);}check();document.getElementById('porchlight-check-update')?.addEventListener('click',()=>check(true));});
  document.addEventListener('visibilitychange',()=>{if(!document.hidden)check();});window.addEventListener('online',()=>check());
 })();
