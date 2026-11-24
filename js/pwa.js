@@ -8,7 +8,7 @@ if ('serviceWorker' in navigator && (location.protocol === 'https:' || location.
 }
 // Compare the loaded release with the online directory version; never clear user storage.
 (()=>{
- const current='2026.11.24-expansion1-r2'; let checking=false; const get=k=>{try{return sessionStorage.getItem(k)}catch{return null}}; const put=(k,v)=>{try{sessionStorage.setItem(k,v)}catch{}}; const later="porchlight.update.later", pending="porchlight.update.pending"; let dismissed;
+ const current='2026.11.24-expansion1-r3'; let checking=false; const get=k=>{try{return sessionStorage.getItem(k)}catch{return null}}; const put=(k,v)=>{try{sessionStorage.setItem(k,v)}catch{}}; const later="porchlight.update.later", pending="porchlight.update.pending"; let dismissed;
  async function confirmed(target){for(let i=0;i<30;i++){const worker=navigator.serviceWorker?.controller;if(worker){const version=await new Promise(resolve=>{const c=new MessageChannel();const t=setTimeout(()=>{c.port1.close();resolve(null)},500);c.port1.onmessage=e=>{clearTimeout(t);c.port1.close();resolve(e.data.version)};worker.postMessage({type:"VERSION"},[c.port2]);});if(version===target)return true;}await new Promise(r=>setTimeout(r,500));}return false;}
  async function check(manual=false){
   if(checking)return; checking=true;
