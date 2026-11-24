@@ -42,7 +42,7 @@
     "location": "At home for enrichment-kit preparation or at an Operation Kindness shelter for animal-facing shifts; confirm assignment.",
     "requirements": "Individual volunteers: age 16+; $10 registration fee; onboarding/training. Advanced animal-handling training is required for animal-facing enrichment/socialization shifts.",
     "commitment": "General individual-volunteer minimum: 4 hours/month to remain active; shift details vary by assignment.",
-    "setting": "In person",
+    "setting": "In person or remote / from home",
     "url": "https://www.operationkindness.org/volunteer/",
     "lastReviewed": "2026-11-20",
     "organizationType": "Animal welfare"
@@ -58,7 +58,7 @@
     "location": "Volunteer foster home; animal pickup/return arrangements are coordinated with Operation Kindness.",
     "requirements": "Individual volunteers: age 16+ and $10 registration fee under general volunteer guidance; one-on-one foster-care training is provided. Confirm any foster-specific approval requirements directly.",
     "commitment": "Typical foster placement: 2 weeks to 2 months, depending on the animal. Foster hours may count toward volunteer hours under the organization’s published policy.",
-    "setting": "In person",
+    "setting": "Remote / From home",
     "url": "https://www.operationkindness.org/volunteer/",
     "lastReviewed": "2026-11-20",
     "organizationType": "Animal welfare"
@@ -312,7 +312,10 @@
     "setting": "In person",
     "url": "https://www.cor.net/i-want-to/volunteer",
     "lastReviewed": "2026-11-20",
-    "organizationType": "Government & civic services"
+    "organizationType": "Government & civic services",
+    "additionalReferenceUrls": [
+      "https://www.cor.net/departments/public-library/teens/teen-advisory-board"
+    ]
   },
   {
     "id": "OPP-0023",
@@ -1013,7 +1016,8 @@
     "setting": "In person",
     "url": "https://www.acocares.org/volunteer-opportunities/",
     "lastReviewed": "2026-11-20",
-    "organizationType": "Human services & food assistance"
+    "organizationType": "Human services & food assistance",
+    "additionalReferenceUrls": []
   },
   {
     "id": "OPP-0067",
@@ -1031,7 +1035,8 @@
     "setting": "In person",
     "url": "https://www.acocares.org/volunteer-opportunities/",
     "lastReviewed": "2026-11-20",
-    "organizationType": "Human services & food assistance"
+    "organizationType": "Human services & food assistance",
+    "additionalReferenceUrls": []
   },
   {
     "id": "OPP-0068",
@@ -1050,7 +1055,8 @@
     "setting": "In person",
     "url": "https://www.acocares.org/volunteer-opportunities/",
     "lastReviewed": "2026-11-20",
-    "organizationType": "Human services & food assistance"
+    "organizationType": "Human services & food assistance",
+    "additionalReferenceUrls": []
   },
   {
     "id": "OPP-0069",
@@ -1069,7 +1075,8 @@
     "setting": "In person",
     "url": "https://www.acocares.org/volunteer-opportunities/",
     "lastReviewed": "2026-11-20",
-    "organizationType": "Human services & food assistance"
+    "organizationType": "Human services & food assistance",
+    "additionalReferenceUrls": []
   },
   {
     "id": "OPP-0070",
@@ -1087,7 +1094,8 @@
     "setting": "In person",
     "url": "https://www.acocares.org/volunteer-opportunities/",
     "lastReviewed": "2026-11-20",
-    "organizationType": "Human services & food assistance"
+    "organizationType": "Human services & food assistance",
+    "additionalReferenceUrls": []
   },
   {
     "id": "OPP-0071",
@@ -2313,7 +2321,8 @@
     "setting": "In person",
     "url": "https://www.heardmuseum.org/volunteer/",
     "lastReviewed": "2026-11-20",
-    "organizationType": "Museums & cultural institutions"
+    "organizationType": "Museums & cultural institutions",
+    "additionalReferenceUrls": []
   },
   {
     "id": "OPP-0146",
@@ -2331,7 +2340,8 @@
     "setting": "In person",
     "url": "https://www.heardmuseum.org/volunteer/",
     "lastReviewed": "2026-11-20",
-    "organizationType": "Museums & cultural institutions"
+    "organizationType": "Museums & cultural institutions",
+    "additionalReferenceUrls": []
   },
   {
     "id": "OPP-0147",
@@ -2349,7 +2359,8 @@
     "setting": "In person",
     "url": "https://www.heardmuseum.org/volunteer/",
     "lastReviewed": "2026-11-20",
-    "organizationType": "Museums & cultural institutions"
+    "organizationType": "Museums & cultural institutions",
+    "additionalReferenceUrls": []
   },
   {
     "id": "OPP-0148",
@@ -2367,7 +2378,8 @@
     "setting": "In person",
     "url": "https://www.heardmuseum.org/volunteer/",
     "lastReviewed": "2026-11-20",
-    "organizationType": "Museums & cultural institutions"
+    "organizationType": "Museums & cultural institutions",
+    "additionalReferenceUrls": []
   },
   {
     "id": "OPP-0150",
@@ -2678,7 +2690,8 @@
     "setting": "In person",
     "url": "https://www.collincountyhistorymuseum.org/volunteer.html",
     "lastReviewed": "2026-11-20",
-    "organizationType": "Museums & cultural institutions"
+    "organizationType": "Museums & cultural institutions",
+    "additionalReferenceUrls": []
   },
   {
     "id": "OPP-0171",
@@ -2694,7 +2707,8 @@
     "setting": "In person",
     "url": "https://www.collincountyhistorymuseum.org/volunteer.html",
     "lastReviewed": "2026-11-20",
-    "organizationType": "Museums & cultural institutions"
+    "organizationType": "Museums & cultural institutions",
+    "additionalReferenceUrls": []
   },
   {
     "id": "OPP-0172",
@@ -2712,7 +2726,8 @@
     "setting": "In person",
     "url": "https://www.collincountyhistorymuseum.org/volunteer.html",
     "lastReviewed": "2026-11-20",
-    "organizationType": "Museums & cultural institutions"
+    "organizationType": "Museums & cultural institutions",
+    "additionalReferenceUrls": []
   },
   {
     "id": "OPP-0173",
@@ -2752,7 +2767,8 @@
     "setting": "In person",
     "url": "https://www.collincountyhistorymuseum.org/volunteer.html",
     "lastReviewed": "2026-11-20",
-    "organizationType": "Museums & cultural institutions"
+    "organizationType": "Museums & cultural institutions",
+    "additionalReferenceUrls": []
   },
   {
     "id": "OPP-0175",
@@ -2786,7 +2802,8 @@
     "setting": "In person",
     "url": "https://www.collincountyhistorymuseum.org/volunteer.html",
     "lastReviewed": "2026-11-20",
-    "organizationType": "Museums & cultural institutions"
+    "organizationType": "Museums & cultural institutions",
+    "additionalReferenceUrls": []
   },
   {
     "id": "OPP-0178",
@@ -2982,5 +2999,419 @@
     "url": "https://www.bswhealth.com/get-involved/become-a-volunteer",
     "lastReviewed": "2026-11-20",
     "officialPageChecked": "2026-11-20"
+  },
+  {
+    "id": "OPP-EXP-A-008",
+    "organizationId": "ORG-EXP-A-008",
+    "organization": "Amazing Grace Food Pantry",
+    "title": "Food pantry support",
+    "activities": "Sort food and assist with client distribution.",
+    "primary": "C",
+    "secondary": [
+      "R",
+      "S"
+    ],
+    "location": "Wylie, Texas; confirm assignment site with organization.",
+    "requirements": "General program: age 8+; children under 13 accompanied by an adult; advance registration; service hours documented. Confirm role-specific requirements.",
+    "commitment": "Confirm schedule with the organization.",
+    "setting": "In person",
+    "url": "https://www.amazinggracepantry.org/volunteer",
+    "lastReviewed": "2026-11-24",
+    "organizationType": "Human services & food assistance"
+  },
+  {
+    "id": "OPP-EXP-A-012",
+    "organizationId": "ORG-EXP-A-008",
+    "organization": "Amazing Grace Food Pantry",
+    "title": "Volunteer meal preparation",
+    "activities": "Volunteer meal preparation. Contact the organization to arrange participation.",
+    "primary": "R",
+    "secondary": [],
+    "location": "Wylie, Texas; confirm assignment site with organization.",
+    "requirements": "General program: age 8+; children under 13 accompanied by an adult; advance registration; service hours documented. Confirm role-specific requirements.",
+    "commitment": "Confirm schedule with the organization.",
+    "setting": "In person",
+    "url": "https://www.amazinggracepantry.org/volunteer",
+    "lastReviewed": "2026-11-24",
+    "organizationType": "Human services & food assistance"
+  },
+  {
+    "id": "OPP-EXP-A-013",
+    "organizationId": "ORG-EXP-A-008",
+    "organization": "Amazing Grace Food Pantry",
+    "title": "Photography and video",
+    "activities": "Photography and video. Contact the organization to arrange participation.",
+    "primary": "A",
+    "secondary": [],
+    "location": "Wylie, Texas; confirm assignment site with organization.",
+    "requirements": "General program: age 8+; children under 13 accompanied by an adult; advance registration; service hours documented. Confirm role-specific requirements.",
+    "commitment": "Confirm schedule with the organization.",
+    "setting": "In person",
+    "url": "https://www.amazinggracepantry.org/volunteer",
+    "lastReviewed": "2026-11-24",
+    "organizationType": "Human services & food assistance"
+  },
+  {
+    "id": "OPP-EXP-A-014",
+    "organizationId": "ORG-EXP-A-008",
+    "organization": "Amazing Grace Food Pantry",
+    "title": "Marketing and social media",
+    "activities": "Marketing and social media. Contact the organization to arrange participation.",
+    "primary": "E",
+    "secondary": [
+      "A"
+    ],
+    "location": "Wylie, Texas; confirm assignment site with organization.",
+    "requirements": "General program: age 8+; children under 13 accompanied by an adult; advance registration; service hours documented. Confirm role-specific requirements.",
+    "commitment": "Confirm schedule with the organization.",
+    "setting": "Confirm with organization",
+    "url": "https://www.amazinggracepantry.org/volunteer",
+    "lastReviewed": "2026-11-24",
+    "organizationType": "Human services & food assistance"
+  },
+  {
+    "id": "OPP-EXP-A-015",
+    "organizationId": "ORG-EXP-A-008",
+    "organization": "Amazing Grace Food Pantry",
+    "title": "Grant writing",
+    "activities": "Grant writing. Contact the organization to arrange participation.",
+    "primary": "E",
+    "secondary": [
+      "A"
+    ],
+    "location": "Wylie, Texas; confirm assignment site with organization.",
+    "requirements": "General program: age 8+; children under 13 accompanied by an adult; advance registration; service hours documented. Confirm role-specific requirements.",
+    "commitment": "Confirm schedule with the organization.",
+    "setting": "Confirm with organization",
+    "url": "https://www.amazinggracepantry.org/volunteer",
+    "lastReviewed": "2026-11-24",
+    "organizationType": "Human services & food assistance"
+  },
+  {
+    "id": "OPP-EXP-A-016",
+    "organizationId": "ORG-EXP-A-008",
+    "organization": "Amazing Grace Food Pantry",
+    "title": "Community relations",
+    "activities": "Community relations. Contact the organization to arrange participation.",
+    "primary": "E",
+    "secondary": [
+      "S"
+    ],
+    "location": "Wylie, Texas; confirm assignment site with organization.",
+    "requirements": "General program: age 8+; children under 13 accompanied by an adult; advance registration; service hours documented. Confirm role-specific requirements.",
+    "commitment": "Confirm schedule with the organization.",
+    "setting": "Confirm with organization",
+    "url": "https://www.amazinggracepantry.org/volunteer",
+    "lastReviewed": "2026-11-24",
+    "organizationType": "Human services & food assistance"
+  },
+  {
+    "id": "OPP-EXP-A-048",
+    "organizationId": "ORG-EXP-A-048",
+    "organization": "Allen Contemporary Theatre",
+    "title": "Box office",
+    "activities": "Box office. Contact the organization to arrange participation.",
+    "primary": "C",
+    "secondary": [
+      "S"
+    ],
+    "location": "Allen, Texas; confirm assignment site with organization.",
+    "requirements": "Confirm age, training and other requirements with the organization.",
+    "commitment": "Confirm schedule with the organization.",
+    "setting": "In person",
+    "url": "https://allencontemporarytheatre.net/volunteer",
+    "lastReviewed": "2026-11-24",
+    "organizationType": "Museums & cultural institutions"
+  },
+  {
+    "id": "OPP-EXP-A-049",
+    "organizationId": "ORG-EXP-A-048",
+    "organization": "Allen Contemporary Theatre",
+    "title": "Concessions",
+    "activities": "Concessions. Contact the organization to arrange participation.",
+    "primary": "C",
+    "secondary": [
+      "S"
+    ],
+    "location": "Allen, Texas; confirm assignment site with organization.",
+    "requirements": "Confirm age, training and other requirements with the organization.",
+    "commitment": "Confirm schedule with the organization.",
+    "setting": "In person",
+    "url": "https://allencontemporarytheatre.net/volunteer",
+    "lastReviewed": "2026-11-24",
+    "organizationType": "Museums & cultural institutions"
+  },
+  {
+    "id": "OPP-EXP-A-050",
+    "organizationId": "ORG-EXP-A-048",
+    "organization": "Allen Contemporary Theatre",
+    "title": "Usher",
+    "activities": "Usher. Contact the organization to arrange participation.",
+    "primary": "S",
+    "secondary": [],
+    "location": "Allen, Texas; confirm assignment site with organization.",
+    "requirements": "Confirm age, training and other requirements with the organization.",
+    "commitment": "Confirm schedule with the organization.",
+    "setting": "In person",
+    "url": "https://allencontemporarytheatre.net/volunteer",
+    "lastReviewed": "2026-11-24",
+    "organizationType": "Museums & cultural institutions"
+  },
+  {
+    "id": "OPP-EXP-A-054",
+    "organizationId": "ORG-EXP-A-054",
+    "organization": "Allen Heritage Guild",
+    "title": "Tours",
+    "activities": "Tours. Contact the organization to arrange participation.",
+    "primary": "S",
+    "secondary": [
+      "I"
+    ],
+    "location": "Allen, Texas; confirm assignment site with organization.",
+    "requirements": "Confirm age, training and other requirements with the organization.",
+    "commitment": "Confirm schedule with the organization.",
+    "setting": "In person",
+    "url": "https://allenheritage.org/volunteer/",
+    "lastReviewed": "2026-11-24",
+    "organizationType": "Museums & cultural institutions"
+  },
+  {
+    "id": "OPP-EXP-A-055",
+    "organizationId": "ORG-EXP-A-054",
+    "organization": "Allen Heritage Guild",
+    "title": "Exhibit and float design",
+    "activities": "Exhibit and float design. Contact the organization to arrange participation.",
+    "primary": "A",
+    "secondary": [
+      "R"
+    ],
+    "location": "Allen, Texas; confirm assignment site with organization.",
+    "requirements": "Confirm age, training and other requirements with the organization.",
+    "commitment": "Confirm schedule with the organization.",
+    "setting": "In person",
+    "url": "https://allenheritage.org/volunteer/",
+    "lastReviewed": "2026-11-24",
+    "organizationType": "Museums & cultural institutions"
+  },
+  {
+    "id": "OPP-EXP-A-056",
+    "organizationId": "ORG-EXP-A-054",
+    "organization": "Allen Heritage Guild",
+    "title": "Historic restoration",
+    "activities": "Historic restoration. Contact the organization to arrange participation.",
+    "primary": "R",
+    "secondary": [],
+    "location": "Allen, Texas; confirm assignment site with organization.",
+    "requirements": "Confirm age, training and other requirements with the organization.",
+    "commitment": "Confirm schedule with the organization.",
+    "setting": "In person",
+    "url": "https://allenheritage.org/volunteer/",
+    "lastReviewed": "2026-11-24",
+    "organizationType": "Museums & cultural institutions"
+  },
+  {
+    "id": "OPP-EXP-A-057",
+    "organizationId": "ORG-EXP-A-054",
+    "organization": "Allen Heritage Guild",
+    "title": "Local history research",
+    "activities": "Local history research. Contact the organization to arrange participation.",
+    "primary": "I",
+    "secondary": [],
+    "location": "Allen, Texas; confirm assignment site with organization.",
+    "requirements": "Confirm age, training and other requirements with the organization.",
+    "commitment": "Confirm schedule with the organization.",
+    "setting": "In person",
+    "url": "https://allenheritage.org/volunteer/",
+    "lastReviewed": "2026-11-24",
+    "organizationType": "Museums & cultural institutions"
+  },
+  {
+    "id": "OPP-EXP-A-058",
+    "organizationId": "ORG-EXP-A-054",
+    "organization": "Allen Heritage Guild",
+    "title": "Costume sewing",
+    "activities": "Costume sewing. Contact the organization to arrange participation.",
+    "primary": "A",
+    "secondary": [
+      "R"
+    ],
+    "location": "Allen, Texas; confirm assignment site with organization.",
+    "requirements": "Confirm age, training and other requirements with the organization.",
+    "commitment": "Confirm schedule with the organization.",
+    "setting": "In person",
+    "url": "https://allenheritage.org/volunteer/",
+    "lastReviewed": "2026-11-24",
+    "organizationType": "Museums & cultural institutions"
+  },
+  {
+    "id": "OPP-EXP-A-059",
+    "organizationId": "ORG-EXP-A-054",
+    "organization": "Allen Heritage Guild",
+    "title": "Performance",
+    "activities": "Performance. Contact the organization to arrange participation.",
+    "primary": "A",
+    "secondary": [],
+    "location": "Allen, Texas; confirm assignment site with organization.",
+    "requirements": "Confirm age, training and other requirements with the organization.",
+    "commitment": "Confirm schedule with the organization.",
+    "setting": "In person",
+    "url": "https://allenheritage.org/volunteer/",
+    "lastReviewed": "2026-11-24",
+    "organizationType": "Museums & cultural institutions"
+  },
+  {
+    "id": "OPP-EXP-A-060",
+    "organizationId": "ORG-EXP-A-054",
+    "organization": "Allen Heritage Guild",
+    "title": "Craft demonstrations",
+    "activities": "Craft demonstrations. Contact the organization to arrange participation.",
+    "primary": "S",
+    "secondary": [
+      "A",
+      "R"
+    ],
+    "location": "Allen, Texas; confirm assignment site with organization.",
+    "requirements": "Confirm age, training and other requirements with the organization.",
+    "commitment": "Confirm schedule with the organization.",
+    "setting": "In person",
+    "url": "https://allenheritage.org/volunteer/",
+    "lastReviewed": "2026-11-24",
+    "organizationType": "Museums & cultural institutions"
+  },
+  {
+    "id": "OPP-EXP-A-061",
+    "organizationId": "ORG-EXP-A-054",
+    "organization": "Allen Heritage Guild",
+    "title": "Event fundraising",
+    "activities": "Event fundraising. Contact the organization to arrange participation.",
+    "primary": "E",
+    "secondary": [
+      "C"
+    ],
+    "location": "Allen, Texas; confirm assignment site with organization.",
+    "requirements": "Confirm age, training and other requirements with the organization.",
+    "commitment": "Confirm schedule with the organization.",
+    "setting": "In person",
+    "url": "https://allenheritage.org/volunteer/",
+    "lastReviewed": "2026-11-24",
+    "organizationType": "Museums & cultural institutions"
+  },
+  {
+    "id": "OPP-EXP-A-062",
+    "organizationId": "ORG-EXP-A-054",
+    "organization": "Allen Heritage Guild",
+    "title": "Social media",
+    "activities": "Social media. Contact the organization to arrange participation.",
+    "primary": "E",
+    "secondary": [
+      "A"
+    ],
+    "location": "Allen, Texas; confirm assignment site with organization.",
+    "requirements": "Confirm age, training and other requirements with the organization.",
+    "commitment": "Confirm schedule with the organization.",
+    "setting": "Confirm with organization",
+    "url": "https://allenheritage.org/volunteer/",
+    "lastReviewed": "2026-11-24",
+    "organizationType": "Museums & cultural institutions"
+  },
+  {
+    "id": "OPP-EXP-A-064",
+    "organizationId": "ORG-EXP-A-064",
+    "organization": "Community Food Pantry of McKinney",
+    "title": "Food pantry operations",
+    "activities": "Unload and stock food, sort donations, check expiration dates and prepare grocery boxes.",
+    "primary": "R",
+    "secondary": [
+      "C"
+    ],
+    "location": "McKinney, Texas; confirm assignment site with organization.",
+    "requirements": "No experience required; occasional or recurring; groups arrange approval in advance.",
+    "commitment": "Occasional or recurring; groups arrange participation in advance.",
+    "setting": "In person",
+    "url": "https://www.mckinneyfoodpantry.org/volunteer",
+    "lastReviewed": "2026-11-24",
+    "organizationType": "Human services & food assistance"
+  },
+  {
+    "id": "OPP-EXP-A-076",
+    "organizationId": "ORG-EXP-A-076",
+    "organization": "McKinney Parks Foundation",
+    "title": "Trail care",
+    "activities": "Trail care. Contact the organization to arrange participation.",
+    "primary": "R",
+    "secondary": [],
+    "location": "McKinney, Texas; confirm assignment site with organization.",
+    "requirements": "Confirm age, training and other requirements with the organization.",
+    "commitment": "Confirm schedule with the organization.",
+    "setting": "In person",
+    "url": "https://www.mckinneyparksfoundation.org/volunteer/",
+    "lastReviewed": "2026-11-24",
+    "organizationType": "Environment & conservation"
+  },
+  {
+    "id": "OPP-EXP-A-077",
+    "organizationId": "ORG-EXP-A-076",
+    "organization": "McKinney Parks Foundation",
+    "title": "Learning garden",
+    "activities": "Learning garden. Contact the organization to arrange participation.",
+    "primary": "R",
+    "secondary": [],
+    "location": "McKinney, Texas; confirm assignment site with organization.",
+    "requirements": "Confirm age, training and other requirements with the organization.",
+    "commitment": "Confirm schedule with the organization.",
+    "setting": "In person",
+    "url": "https://www.mckinneyparksfoundation.org/volunteer/",
+    "lastReviewed": "2026-11-24",
+    "organizationType": "Environment & conservation"
+  },
+  {
+    "id": "OPP-EXP-A-078",
+    "organizationId": "ORG-EXP-A-076",
+    "organization": "McKinney Parks Foundation",
+    "title": "Wildlife structures and boardwalk construction",
+    "activities": "Wildlife structures and boardwalk construction. Contact the organization to arrange participation.",
+    "primary": "R",
+    "secondary": [],
+    "location": "McKinney, Texas; confirm assignment site with organization.",
+    "requirements": "Group project; arrange participation with the foundation.",
+    "commitment": "Project-based group service.",
+    "setting": "In person",
+    "url": "https://www.mckinneyparksfoundation.org/volunteer/",
+    "lastReviewed": "2026-11-24",
+    "organizationType": "Environment & conservation"
+  },
+  {
+    "id": "OPP-EXP-A-079",
+    "organizationId": "ORG-EXP-A-076",
+    "organization": "McKinney Parks Foundation",
+    "title": "Prairie conservation",
+    "activities": "Prairie conservation. Contact the organization to arrange participation.",
+    "primary": "R",
+    "secondary": [],
+    "location": "McKinney, Texas; confirm assignment site with organization.",
+    "requirements": "Group project; arrange participation with the foundation.",
+    "commitment": "Project-based group service.",
+    "setting": "In person",
+    "url": "https://www.mckinneyparksfoundation.org/volunteer/",
+    "lastReviewed": "2026-11-24",
+    "organizationType": "Environment & conservation"
+  },
+  {
+    "id": "OPP-EXP-A-123",
+    "organizationId": "ORG-016",
+    "organization": "Heard Natural Science Museum & Wildlife Sanctuary",
+    "title": "Event assistance",
+    "activities": "Event assistance. Contact the organization to arrange participation.",
+    "primary": "S",
+    "secondary": [
+      "C"
+    ],
+    "location": "McKinney, Texas; confirm assignment site with organization.",
+    "requirements": "Confirm age, training and other requirements with the organization.",
+    "commitment": "Confirm schedule with the organization.",
+    "setting": "In person",
+    "url": "https://www.heardmuseum.org/volunteer/",
+    "lastReviewed": "2026-11-24",
+    "organizationType": "Museums & cultural institutions"
   }
 ]

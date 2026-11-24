@@ -163,5 +163,30 @@
     "id": "ORG-H05",
     "name": "Baylor Scott & White Health",
     "type": "Hospitals & healthcare"
+  },
+  {
+    "id": "ORG-EXP-A-008",
+    "name": "Amazing Grace Food Pantry",
+    "type": "Human services & food assistance"
+  },
+  {
+    "id": "ORG-EXP-A-048",
+    "name": "Allen Contemporary Theatre",
+    "type": "Museums & cultural institutions"
+  },
+  {
+    "id": "ORG-EXP-A-054",
+    "name": "Allen Heritage Guild",
+    "type": "Museums & cultural institutions"
+  },
+  {
+    "id": "ORG-EXP-A-064",
+    "name": "Community Food Pantry of McKinney",
+    "type": "Human services & food assistance"
+  },
+  {
+    "id": "ORG-EXP-A-076",
+    "name": "McKinney Parks Foundation",
+    "type": "Environment & conservation"
   }
 ]
