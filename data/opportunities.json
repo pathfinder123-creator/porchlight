@@ -3413,5 +3413,552 @@
     "url": "https://www.heardmuseum.org/volunteer/",
     "lastReviewed": "2026-11-24",
     "organizationType": "Museums & cultural institutions"
+  },
+  {
+    "id": "OPP-EXP2-001",
+    "organizationId": "ORG-EXP2-001",
+    "organization": "Dallas Film",
+    "title": "Event photography",
+    "activities": "Photograph festival and special event activities.",
+    "primary": "A",
+    "secondary": [
+      "R"
+    ],
+    "location": "Dallas, Texas; confirm event site.",
+    "requirements": "Confirm eligibility and training with organization.",
+    "commitment": "Confirm schedule with organization.",
+    "setting": "In person",
+    "url": "https://dallasfilm.org/volunteer",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Museums & cultural institutions"
+  },
+  {
+    "id": "OPP-EXP2-002",
+    "organizationId": "ORG-EXP2-001",
+    "organization": "Dallas Film",
+    "title": "Operations assistance",
+    "activities": "Assist with festival operations.",
+    "primary": "C",
+    "secondary": [
+      "R"
+    ],
+    "location": "Dallas, Texas; confirm event site.",
+    "requirements": "Confirm eligibility and training with organization.",
+    "commitment": "Confirm schedule with organization.",
+    "setting": "In person",
+    "url": "https://dallasfilm.org/volunteer",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Museums & cultural institutions"
+  },
+  {
+    "id": "OPP-EXP2-003",
+    "organizationId": "ORG-EXP2-001",
+    "organization": "Dallas Film",
+    "title": "Office assistance",
+    "activities": "Support office and administrative activities.",
+    "primary": "C",
+    "secondary": [],
+    "location": "Dallas, Texas; confirm event site.",
+    "requirements": "Confirm eligibility and training with organization.",
+    "commitment": "Confirm schedule with organization.",
+    "setting": "In person",
+    "url": "https://dallasfilm.org/volunteer",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Museums & cultural institutions"
+  },
+  {
+    "id": "OPP-EXP2-004",
+    "organizationId": "ORG-EXP2-001",
+    "organization": "Dallas Film",
+    "title": "Special event assistance",
+    "activities": "Assist with special events.",
+    "primary": "R",
+    "secondary": [
+      "S"
+    ],
+    "location": "Dallas, Texas; confirm event site.",
+    "requirements": "Confirm eligibility and training with organization.",
+    "commitment": "Confirm schedule with organization.",
+    "setting": "In person",
+    "url": "https://dallasfilm.org/volunteer",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Museums & cultural institutions"
+  },
+  {
+    "id": "OPP-EXP2-005",
+    "organizationId": "ORG-EXP2-002",
+    "organization": "Dallas Leadership Foundation",
+    "title": "Research",
+    "activities": "Assist with organizational research.",
+    "primary": "I",
+    "secondary": [
+      "C"
+    ],
+    "location": "Dallas, Texas; confirm assignment site.",
+    "requirements": "Confirm eligibility and training with organization.",
+    "commitment": "Confirm schedule with organization.",
+    "setting": "In person",
+    "url": "https://www.dlftx.org/volunteer",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Housing & community development"
+  },
+  {
+    "id": "OPP-EXP2-006",
+    "organizationId": "ORG-EXP2-002",
+    "organization": "Dallas Leadership Foundation",
+    "title": "Graphic design",
+    "activities": "Assist with graphic design projects.",
+    "primary": "A",
+    "secondary": [],
+    "location": "Dallas, Texas; confirm assignment site.",
+    "requirements": "Confirm eligibility and training with organization.",
+    "commitment": "Confirm schedule with organization.",
+    "setting": "In person",
+    "url": "https://www.dlftx.org/volunteer",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Housing & community development"
+  },
+  {
+    "id": "OPP-EXP2-007",
+    "organizationId": "ORG-EXP2-002",
+    "organization": "Dallas Leadership Foundation",
+    "title": "Database management",
+    "activities": "Maintain database records.",
+    "primary": "C",
+    "secondary": [],
+    "location": "Dallas, Texas; confirm assignment site.",
+    "requirements": "Confirm eligibility and training with organization.",
+    "commitment": "Confirm schedule with organization.",
+    "setting": "In person",
+    "url": "https://www.dlftx.org/volunteer",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Housing & community development"
+  },
+  {
+    "id": "OPP-EXP2-008",
+    "organizationId": "ORG-EXP2-002",
+    "organization": "Dallas Leadership Foundation",
+    "title": "Direct mail support",
+    "activities": "Assist with direct mail activities.",
+    "primary": "C",
+    "secondary": [],
+    "location": "Dallas, Texas; confirm assignment site.",
+    "requirements": "Confirm eligibility and training with organization.",
+    "commitment": "Confirm schedule with organization.",
+    "setting": "In person",
+    "url": "https://www.dlftx.org/volunteer",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Housing & community development"
+  },
+  {
+    "id": "OPP-EXP2-009",
+    "organizationId": "ORG-EXP2-003",
+    "organization": "Make The Healthy Choice Foundation",
+    "title": "Data, impact and technology support",
+    "activities": "Assist with data, impact tracking and technology.",
+    "primary": "I",
+    "secondary": [
+      "C"
+    ],
+    "location": "Southern Dallas and Oak Cliff; confirm assignment site.",
+    "requirements": "30-minute telephone orientation; confirm role-specific requirements.",
+    "commitment": "At least one event monthly; confirm assignment schedule.",
+    "setting": "In person",
+    "url": "https://www.makethc.org/volunteer",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Other community organizations"
+  },
+  {
+    "id": "OPP-EXP2-010",
+    "organizationId": "ORG-EXP2-003",
+    "organization": "Make The Healthy Choice Foundation",
+    "title": "Development and fundraising",
+    "activities": "Support fundraising and development.",
+    "primary": "E",
+    "secondary": [
+      "I"
+    ],
+    "location": "Southern Dallas and Oak Cliff; confirm assignment site.",
+    "requirements": "30-minute telephone orientation; confirm role-specific requirements.",
+    "commitment": "At least one event monthly; confirm assignment schedule.",
+    "setting": "In person",
+    "url": "https://www.makethc.org/volunteer",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Other community organizations"
+  },
+  {
+    "id": "OPP-EXP2-011",
+    "organizationId": "ORG-EXP2-003",
+    "organization": "Make The Healthy Choice Foundation",
+    "title": "Community engagement and partnerships",
+    "activities": "Support community outreach and partnerships.",
+    "primary": "E",
+    "secondary": [
+      "S"
+    ],
+    "location": "Southern Dallas and Oak Cliff; confirm assignment site.",
+    "requirements": "30-minute telephone orientation; confirm role-specific requirements.",
+    "commitment": "At least one event monthly; confirm assignment schedule.",
+    "setting": "In person",
+    "url": "https://www.makethc.org/volunteer",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Other community organizations"
+  },
+  {
+    "id": "OPP-EXP2-012",
+    "organizationId": "ORG-EXP2-003",
+    "organization": "Make The Healthy Choice Foundation",
+    "title": "Program and event support",
+    "activities": "Assist with community programs and events.",
+    "primary": "S",
+    "secondary": [
+      "R",
+      "C"
+    ],
+    "location": "Southern Dallas and Oak Cliff; confirm assignment site.",
+    "requirements": "30-minute telephone orientation; confirm role-specific requirements.",
+    "commitment": "At least one event monthly; confirm assignment schedule.",
+    "setting": "In person",
+    "url": "https://www.makethc.org/volunteer",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Other community organizations"
+  },
+  {
+    "id": "OPP-EXP2-013",
+    "organizationId": "ORG-EXP2-004",
+    "organization": "Latino Cultural Center",
+    "title": "Exhibition docent",
+    "activities": "Guide visitors through exhibitions.",
+    "primary": "S",
+    "secondary": [
+      "A"
+    ],
+    "location": "Dallas, Texas",
+    "requirements": "Age 18+; mandatory exhibition-specific training session; duration not published.",
+    "commitment": "Confirm schedule with organization.",
+    "setting": "In person",
+    "url": "https://lcc.dallasculture.org/about-us/get-involved/",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Museums & cultural institutions"
+  },
+  {
+    "id": "OPP-EXP2-014",
+    "organizationId": "ORG-EXP2-004",
+    "organization": "Latino Cultural Center",
+    "title": "Technical assistance",
+    "activities": "Assist with technical aspects of cultural programs.",
+    "primary": "R",
+    "secondary": [
+      "A"
+    ],
+    "location": "Dallas, Texas",
+    "requirements": "Age 18+; confirm role-specific requirements.",
+    "commitment": "Confirm schedule with organization.",
+    "setting": "In person",
+    "url": "https://lcc.dallasculture.org/about-us/get-involved/",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Museums & cultural institutions"
+  },
+  {
+    "id": "OPP-EXP2-015",
+    "organizationId": "ORG-EXP2-005",
+    "organization": "Oak Cliff Cultural Center",
+    "title": "Backstage and technical support",
+    "activities": "Assist with backstage and technical activities.",
+    "primary": "R",
+    "secondary": [
+      "A"
+    ],
+    "location": "Dallas, Texas",
+    "requirements": "Confirm eligibility and training with organization.",
+    "commitment": "Confirm schedule with organization.",
+    "setting": "In person",
+    "url": "https://occc.dallasculture.org/about-us/get-involved/",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Museums & cultural institutions"
+  },
+  {
+    "id": "OPP-EXP2-016",
+    "organizationId": "ORG-EXP2-005",
+    "organization": "Oak Cliff Cultural Center",
+    "title": "Gallery docent",
+    "activities": "Assist visitors with gallery exhibitions.",
+    "primary": "S",
+    "secondary": [
+      "A"
+    ],
+    "location": "Dallas, Texas",
+    "requirements": "Confirm eligibility and training with organization.",
+    "commitment": "Confirm schedule with organization.",
+    "setting": "In person",
+    "url": "https://occc.dallasculture.org/about-us/get-involved/",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Museums & cultural institutions"
+  },
+  {
+    "id": "OPP-EXP2-017",
+    "organizationId": "ORG-EXP2-006",
+    "organization": "kAiA Arts Dallas",
+    "title": "Performing arts instruction",
+    "activities": "Share performing arts skills with young participants.",
+    "primary": "A",
+    "secondary": [
+      "S"
+    ],
+    "location": "Dallas, McKinney and Frisco service area; confirm assignment site.",
+    "requirements": "Relevant skills or experience; background screening for youth-facing roles; confirm details.",
+    "commitment": "Confirm schedule with organization.",
+    "setting": "In person",
+    "url": "https://kaiaartsdallas.org/volunteer",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Other community organizations"
+  },
+  {
+    "id": "OPP-EXP2-018",
+    "organizationId": "ORG-EXP2-006",
+    "organization": "kAiA Arts Dallas",
+    "title": "Youth mentorship",
+    "activities": "Share experience and mentor young participants.",
+    "primary": "S",
+    "secondary": [],
+    "location": "Dallas, McKinney and Frisco service area; confirm assignment site.",
+    "requirements": "Relevant skills or experience; background screening for youth-facing roles; confirm details.",
+    "commitment": "Confirm schedule with organization.",
+    "setting": "In person",
+    "url": "https://kaiaartsdallas.org/volunteer",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Other community organizations"
+  },
+  {
+    "id": "OPP-EXP2-019",
+    "organizationId": "ORG-EXP2-007",
+    "organization": "Volunteer McKinney",
+    "title": "WordPress website design and development",
+    "activities": "Improve website design, usability and functionality.",
+    "primary": "I",
+    "secondary": [
+      "A"
+    ],
+    "location": "McKinney, Texas; remote participation.",
+    "requirements": "Existing WordPress proficiency; confirm project availability.",
+    "commitment": "Flexible; project-based.",
+    "setting": "Virtual",
+    "url": "https://volunteermckinney.galaxydigital.com/agency/detail/?agency_id=5707",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Other community organizations"
+  },
+  {
+    "id": "OPP-EXP2-020",
+    "organizationId": "ORG-EXP2-008",
+    "organization": "Boys & Girls Clubs of Collin County",
+    "title": "Technology program support",
+    "activities": "Assist youth with technology activities.",
+    "primary": "S",
+    "secondary": [
+      "I"
+    ],
+    "location": "McKinney, Frisco and Plano; confirm branch assignment.",
+    "requirements": "Age 15+; adult accompaniment for minors; orientation and background screening; confirm details.",
+    "commitment": "Confirm schedule with organization.",
+    "setting": "In person",
+    "url": "https://www.bgccc.org/volunteers/",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Human services & food assistance"
+  },
+  {
+    "id": "OPP-EXP2-021",
+    "organizationId": "ORG-EXP2-008",
+    "organization": "Boys & Girls Clubs of Collin County",
+    "title": "Arts and crafts program support",
+    "activities": "Support creative activities for youth.",
+    "primary": "A",
+    "secondary": [
+      "S"
+    ],
+    "location": "McKinney, Frisco and Plano; confirm branch assignment.",
+    "requirements": "Age 15+; adult accompaniment for minors; orientation and background screening; confirm details.",
+    "commitment": "Confirm schedule with organization.",
+    "setting": "In person",
+    "url": "https://www.bgccc.org/volunteers/",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Human services & food assistance"
+  },
+  {
+    "id": "OPP-EXP2-022",
+    "organizationId": "ORG-EXP2-008",
+    "organization": "Boys & Girls Clubs of Collin County",
+    "title": "Homework tutoring",
+    "activities": "Help youth with homework.",
+    "primary": "S",
+    "secondary": [
+      "I"
+    ],
+    "location": "McKinney, Frisco and Plano; confirm branch assignment.",
+    "requirements": "Age 15+; adult accompaniment for minors; orientation and background screening; confirm details.",
+    "commitment": "Confirm schedule with organization.",
+    "setting": "In person",
+    "url": "https://www.bgccc.org/volunteers/",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Human services & food assistance"
+  },
+  {
+    "id": "OPP-EXP2-023",
+    "organizationId": "ORG-EXP2-008",
+    "organization": "Boys & Girls Clubs of Collin County",
+    "title": "Youth mentoring",
+    "activities": "Mentor young participants.",
+    "primary": "S",
+    "secondary": [],
+    "location": "McKinney, Frisco and Plano; confirm branch assignment.",
+    "requirements": "Age 18+; orientation and background screening.",
+    "commitment": "Confirm schedule with organization.",
+    "setting": "In person",
+    "url": "https://www.bgccc.org/volunteers/",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Human services & food assistance"
+  },
+  {
+    "id": "OPP-EXP2-024",
+    "organizationId": "ORG-EXP2-008",
+    "organization": "Boys & Girls Clubs of Collin County",
+    "title": "Special events assistance",
+    "activities": "Assist with special events.",
+    "primary": "R",
+    "secondary": [
+      "S",
+      "C"
+    ],
+    "location": "McKinney, Frisco and Plano; confirm branch assignment.",
+    "requirements": "Age 15+; adult accompaniment for minors; orientation and background screening; confirm details.",
+    "commitment": "Confirm schedule with organization.",
+    "setting": "In person",
+    "url": "https://www.bgccc.org/volunteers/",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Human services & food assistance"
+  },
+  {
+    "id": "OPP-EXP2-025",
+    "organizationId": "ORG-EXP2-009",
+    "organization": "Texas Nature Trackers",
+    "title": "Wildlife and plant observation",
+    "activities": "Document local plants and wildlife for citizen science.",
+    "primary": "I",
+    "secondary": [
+      "R"
+    ],
+    "location": "Dallas and Collin Counties; independent local participation.",
+    "requirements": "No formal certification specified; follow project participation instructions.",
+    "commitment": "Self-paced.",
+    "setting": "In person",
+    "url": "https://tpwd.texas.gov/huntwild/wild/wildlife_diversity/texas_nature_trackers/get_involved.phtml",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Environment & conservation"
+  },
+  {
+    "id": "OPP-EXP2-026",
+    "organizationId": "ORG-EXP2-009",
+    "organization": "Texas Nature Trackers",
+    "title": "Missing species research",
+    "activities": "Search for and document species of research interest.",
+    "primary": "I",
+    "secondary": [
+      "C",
+      "R"
+    ],
+    "location": "Dallas and Collin Counties; independent local participation.",
+    "requirements": "No formal certification specified; follow project participation instructions.",
+    "commitment": "Self-directed; confirm project instructions.",
+    "setting": "In person",
+    "url": "https://tpwd.texas.gov/huntwild/wild/wildlife_diversity/texas_nature_trackers/get_involved.phtml",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Environment & conservation"
+  },
+  {
+    "id": "OPP-EXP2-027",
+    "organizationId": "ORG-EXP2-009",
+    "organization": "Texas Nature Trackers",
+    "title": "City Nature Challenge",
+    "activities": "Document local biodiversity during the annual event.",
+    "primary": "I",
+    "secondary": [
+      "R"
+    ],
+    "location": "Dallas and Collin Counties; independent local participation.",
+    "requirements": "No formal certification specified; follow project participation instructions.",
+    "commitment": "Seasonal annual event; confirm next dates and local participation.",
+    "setting": "In person",
+    "url": "https://tpwd.texas.gov/huntwild/wild/wildlife_diversity/texas_nature_trackers/naturechallenge/",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Environment & conservation"
+  },
+  {
+    "id": "OPP-EXP2-028",
+    "organizationId": "ORG-EXP2-010",
+    "organization": "The Gracefull Table Community Kitchen",
+    "title": "Graphic design",
+    "activities": "Create promotional graphics and print materials.",
+    "primary": "A",
+    "secondary": [],
+    "location": "Garland, Texas",
+    "requirements": "Age 18+; design software experience.",
+    "commitment": "2–4 hours weekly; flexible.",
+    "setting": "Virtual",
+    "url": "https://www.idealist.org/en/volunteer-opportunity/a802f796d8fb45ec8335d032d56bedc4-volunteer-graphic-designer-opportunity-title-volunteer-graphic-designer-use-your-creativity-to-feed-hope-the-gracefull-table-community-kitchen-garland",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Human services & food assistance"
+  },
+  {
+    "id": "OPP-EXP2-029",
+    "organizationId": "ORG-EXP2-010",
+    "organization": "The Gracefull Table Community Kitchen",
+    "title": "Community impact research",
+    "activities": "Collect feedback, track program data and summarize outcomes.",
+    "primary": "I",
+    "secondary": [
+      "C"
+    ],
+    "location": "Garland, Texas",
+    "requirements": "Age 18+; comfortable with spreadsheets; protect guest privacy.",
+    "commitment": "2–4 hours weekly; ongoing.",
+    "setting": "Hybrid: remote and in person",
+    "url": "https://www.idealist.org/en/volunteer-opportunity/3f2183a8dbda47ad96784f585302e7ba-community-impact-guest-experience-volunteer-opportunity-title-community-impact-guest-experience-volunteer-help-us-measure-what-matters-the-gracefull-table-community-kitchen-garland",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Human services & food assistance"
+  },
+  {
+    "id": "OPP-EXP2-030",
+    "organizationId": "ORG-EXP2-010",
+    "organization": "The Gracefull Table Community Kitchen",
+    "title": "Sponsorship and business outreach",
+    "activities": "Contact prospective partners and maintain outreach records.",
+    "primary": "E",
+    "secondary": [
+      "S"
+    ],
+    "location": "Garland, Texas",
+    "requirements": "Orientation; communication skills.",
+    "commitment": "2–4 hours weekly for at least 3 months.",
+    "setting": "Hybrid: remote and in person",
+    "url": "https://www.idealist.org/en/volunteer-opportunity/c55d356949b64a92840d7a8a50c54b21-community-sponsorship-business-outreach-volunteer-the-gracefull-table-community-kitchen-garland",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Human services & food assistance"
+  },
+  {
+    "id": "OPP-EXP2-031",
+    "organizationId": "ORG-EXP2-010",
+    "organization": "The Gracefull Table Community Kitchen",
+    "title": "Social media content",
+    "activities": "Create digital content and support community communications.",
+    "primary": "A",
+    "secondary": [
+      "E"
+    ],
+    "location": "Garland, Texas",
+    "requirements": "Age 20+; orientation; examples of prior work.",
+    "commitment": "1–3 hours weekly for at least 6 months.",
+    "setting": "Hybrid: remote and in person",
+    "url": "https://www.idealist.org/en/volunteer-opportunity/68e8c91719e54be78fcf3a40caf84202-social-media-content-volunteer-the-gracefull-table-community-kitchen-garland",
+    "lastReviewed": "2026-11-25",
+    "organizationType": "Human services & food assistance"
   }
 ]

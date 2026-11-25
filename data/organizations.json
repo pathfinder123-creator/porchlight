@@ -188,5 +188,55 @@
     "id": "ORG-EXP-A-076",
     "name": "McKinney Parks Foundation",
     "type": "Environment & conservation"
+  },
+  {
+    "id": "ORG-EXP2-001",
+    "name": "Dallas Film",
+    "type": "Museums & cultural institutions"
+  },
+  {
+    "id": "ORG-EXP2-002",
+    "name": "Dallas Leadership Foundation",
+    "type": "Housing & community development"
+  },
+  {
+    "id": "ORG-EXP2-003",
+    "name": "Make The Healthy Choice Foundation",
+    "type": "Other community organizations"
+  },
+  {
+    "id": "ORG-EXP2-004",
+    "name": "Latino Cultural Center",
+    "type": "Museums & cultural institutions"
+  },
+  {
+    "id": "ORG-EXP2-005",
+    "name": "Oak Cliff Cultural Center",
+    "type": "Museums & cultural institutions"
+  },
+  {
+    "id": "ORG-EXP2-006",
+    "name": "kAiA Arts Dallas",
+    "type": "Other community organizations"
+  },
+  {
+    "id": "ORG-EXP2-007",
+    "name": "Volunteer McKinney",
+    "type": "Other community organizations"
+  },
+  {
+    "id": "ORG-EXP2-008",
+    "name": "Boys & Girls Clubs of Collin County",
+    "type": "Human services & food assistance"
+  },
+  {
+    "id": "ORG-EXP2-009",
+    "name": "Texas Nature Trackers",
+    "type": "Environment & conservation"
+  },
+  {
+    "id": "ORG-EXP2-010",
+    "name": "The Gracefull Table Community Kitchen",
+    "type": "Human services & food assistance"
   }
 ]
