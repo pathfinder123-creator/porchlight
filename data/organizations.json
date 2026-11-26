@@ -238,5 +238,80 @@
     "id": "ORG-EXP2-010",
     "name": "The Gracefull Table Community Kitchen",
     "type": "Human services & food assistance"
+  },
+  {
+    "id": "ORG-EXP3-001",
+    "name": "Coppell Community Garden",
+    "type": "Environment & conservation"
+  },
+  {
+    "id": "ORG-EXP3-002",
+    "name": "Grace Bridge",
+    "type": "Human services & food assistance"
+  },
+  {
+    "id": "ORG-EXP3-003",
+    "name": "City of Mesquite",
+    "type": "Government & civic services"
+  },
+  {
+    "id": "ORG-EXP3-004",
+    "name": "MainStage Irving–Las Colinas",
+    "type": "Museums & cultural institutions"
+  },
+  {
+    "id": "ORG-EXP3-005",
+    "name": "Duncanville Community Theatre",
+    "type": "Museums & cultural institutions"
+  },
+  {
+    "id": "ORG-EXP3-006",
+    "name": "Irving Arts Center",
+    "type": "Museums & cultural institutions"
+  },
+  {
+    "id": "ORG-EXP3-007",
+    "name": "Dallas Area Habitat for Humanity",
+    "type": "Housing & community development"
+  },
+  {
+    "id": "ORG-EXP3-008",
+    "name": "City of Anna",
+    "type": "Government & civic services"
+  },
+  {
+    "id": "ORG-EXP3-009",
+    "name": "Anna Community Library",
+    "type": "Libraries"
+  },
+  {
+    "id": "ORG-EXP3-010",
+    "name": "Melissa Public Library",
+    "type": "Libraries"
+  },
+  {
+    "id": "ORG-EXP3-011",
+    "name": "City of DeSoto",
+    "type": "Government & civic services"
+  },
+  {
+    "id": "ORG-EXP3-012",
+    "name": "Tri-City Animal Shelter",
+    "type": "Animal welfare"
+  },
+  {
+    "id": "ORG-EXP3-013",
+    "name": "Catholic Charities Dallas",
+    "type": "Human services & food assistance"
+  },
+  {
+    "id": "ORG-EXP3-014",
+    "name": "MT Hope House of Texas",
+    "type": "Human services & food assistance"
+  },
+  {
+    "id": "ORG-EXP3-015",
+    "name": "Sew Powerful",
+    "type": "Other community organizations"
   }
 ]
