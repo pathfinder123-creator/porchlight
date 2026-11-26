@@ -26,7 +26,7 @@ This package is intended for a limited hosted pilot and Accommodations-team acce
 - Includes `manifest.webmanifest`, `service-worker.js`, `js/pwa.js`, and app icons under `images/`.
 - Works on GitHub Pages over HTTPS. `file://` local preview does not register a service worker.
 - Network-first caching prefers fresh site files and falls back to previously cached files offline.
-- The cache version is `porchlight-site-20261124-expansion1-r2`. Increment this string whenever releasing a future change to the pre-cached file list or behavior.
+- The cache version is `porchlight-site-20261126-expansion3-r1`. Increment this string whenever releasing a future change to the pre-cached file list or behavior.
 - A first online visit is required to cache the site; external organization links are not cached.
 - After deployment, test installation on a real device, offline browsing, and updates after reconnecting.
 - Install guidance appears under About & Privacy; the home page links to it.
@@ -35,3 +35,6 @@ This package is intended for a limited hosted pilot and Accommodations-team acce
 Added a dedicated 180×180 Apple touch icon, a small browser favicon, and versioned icon references to prompt browsers to refresh their cached icons. After deployment, remove the existing Porchlight home-screen shortcut/app, open the updated site in Safari/Chrome, and add it again. On iPhone use Safari → Share → Add to Home Screen; if an Edit Name and Icon option appears, confirm the lantern preview.
 
 Future releases: change version in data/version.json, js/pwa.js and service-worker.js, and bump CACHE_NAME. Publish together. Update confirmation requires the target controlling worker. Assessment page refresh is deferred.
+
+## Expansion 3 preview
+262 active opportunities; 63 organizations and programs. Retired saved selections remain visible until removed. Hybrid filtering requires an explicit hybrid setting; optional remote or on-site participation appears in both relevant filters. Test locally before deployment.
